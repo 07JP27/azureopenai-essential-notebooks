@@ -7,6 +7,11 @@
 | [FewShot.ipynb](./FewShot.ipynb) | Zero-Shotでは解くことができないような複雑な、またはLLMが学習していないような特定のドメインについてのタスク実行手法 |
 | [CoT.ipynb](./CoT.ipynb) | 中間的な推論ステップを介して複雑な推論能力を可能にする手法 |
 
+## Vision
+| ファイル | 説明 |
+| ---- | ---- |
+| [FewShotVision.ipynb](./FewShotVision.ipynb) | Few-ShotプロンプトのVision版 |
+
 ## 飛び道具系
 | ファイル | 説明 |
 | ---- | ---- |
